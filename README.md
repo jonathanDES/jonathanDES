@@ -2,8 +2,8 @@
 - 👀 I’m interested in em python
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on colaboarar nem tanto porque estou aprendendo mais ecaso alguém estiver disposto a me ajudar ou me guiar nesse processo serei extremamente grato
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 📫 How to reach me jonathan_kokao@hotmail.com
+- 😄 Pronouns: kokao
 - ⚡ Fun fact: ...
 
 <!---
