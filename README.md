@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jonathanDES
-- 👀 I’m interested in em python
-- 🌱 I’m currently learning python
+- 👀 I’m interested in em desenvolvimento web
+- 🌱 I’m currently learning html \ css
 - 💞️ I’m looking to collaborate on colaboarar nem tanto porque estou aprendendo mais ecaso alguém estiver disposto a me ajudar ou me guiar nesse processo serei extremamente grato
 - 📫 How to reach me jonathan_kokao@hotmail.com
 - 😄 Pronouns: kokao
